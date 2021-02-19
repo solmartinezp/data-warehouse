@@ -1,6 +1,6 @@
-Data Warehouse: <br><br>
+Data Warehouse: <br>
 
-Company mode <br><br>
+Company mode <br>
 
 Installation of dependencies <br>
 npm install <br><br>
@@ -9,7 +9,7 @@ Preparing the DB <br>
 First you need to create a database in your mySQL Server named 'datawarehouse'. <br>
 After that you need to run the queries stored in the .mysql files (following that specific order,
 which you can find in the database folder. <br>
-First you create the tables, and then you should execute specific queries to add some standard data, which you can find in the canales.sql, usuarios.sql, regiones.sql files. <br><
+First you create the tables, and then you should execute specific queries to add some standard data, which you can find in the canales.sql, usuarios.sql, regiones.sql files. <br>
 Here, you'll find that some users have been provided (one administrator and one basic profile), some regions and channels. <br>
 Finally you must setup an .env file at the root of the data_warehouse directory (similar to the example.env file) with the configuration of your mySQL database. <br><br>
 
