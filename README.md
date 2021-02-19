@@ -1,4 +1,6 @@
-Data Warehouse
+Data Warehouse:
+
+Company mode
 
 Installation of dependencies
 npm install
